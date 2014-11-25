@@ -7,13 +7,25 @@ Muutosehdotus pykäliin 3 ja 5
 Yhdistyksen varsinaiseksi jäseneksi voi liittyä jokainen henkilö, joka
 sitoutuu noudattamaan yhdistyksen sääntöjä ja ohjeita.
 
+Nuorisojäseneksi voidaan hyväksyä alle 18-vuotias henkilö. 18 vuotta
+täytettyään nuorisojäsen muutetaan varsinaiseksi jäseneksi
+täyttämisvuottaan seuraavan kalenterivuoden alusta lukien.
+
+Perhejäseneksi voidaan hyväksyä varsinaisen jäsenen perheenjäseniä.
+Mikäli mainittu varsinainen jäsen eroaa tai erotetaan kerhosta, tulee
+vähintään yhden perhejäsenen liittyä varsinaiseksi jäseneksi.
+
+Yhteistyökerhojäseneksi voivat hakea erillisillä sopimuksilla sovittujen
+yhteistyökerhojen jäsenet yhteistyösopimuksessa määriteltyjen ehtojen
+mukaan.
+
 Kannattavaksi jäseneksi voidaan hyväksyä yksityinen henkilö tai
 oikeuskelpoinen yhteisö, joka haluaa tukea yhdistyksen tarkoitusta ja
 toimintaa. Kannatusjäsenellä ei ole äänioikeutta yhdistyksen
 kokouksessa.
 
-Varsinaiset jäsenet ja kannattavat jäsenet hyväksyy hakemuksesta
-yhdistyksen hallitus.
+Varsinaiset jäsenet, nuorisojäsenet, perhejäsenet, yhteistyökerhojäsenet
+ja kannattavat jäsenet hyväksyy hakemuksesta yhdistyksen hallitus.
 
 Hallitus voi kutsua kunniapuheenjohtajaksi taikka kunniajäseneksi
 henkilön, joka on erityisesti ansioitunut yhdistyksen toiminnassa tai
@@ -24,8 +36,9 @@ Kunniapuheenjohtajan tulee olla yhdistyksen entinen puheenjohtaja.
 
 5 § Liittymis- ja jäsenmaksu
 
-Varsinaisilta jäseniltä ja kannattavilta jäseniltä perittävän
-liittymismaksun ja vuotuisen jäsenmaksun suuruudesta erikseen kummallekin
+Varsinaisilta jäseniltä, nuorisojäseniltä, perhejäseniltä,
+yhteistyökerhojäseniltä ja kannattavilta jäseniltä perittävän
+liittymismaksun ja vuotuisen jäsenmaksun suuruudesta erikseen kullekin
 jäsenryhmälle päättää vuosikokous. Kunniapuheenjohtaja ja kunniajäsenet
 eivät suorita jäsenmaksuja.
 
