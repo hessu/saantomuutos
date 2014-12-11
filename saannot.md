@@ -7,7 +7,7 @@ Muutosehdotus pykäliin 3 ja 5
 Yhdistyksen varsinaiseksi jäseneksi voi liittyä jokainen henkilö, joka
 sitoutuu noudattamaan yhdistyksen sääntöjä ja ohjeita.
 
-Nuorisojäseneksi voidaan hyväksyä alle 25-vuotias henkilö. 18 vuotta
+Nuorisojäseneksi voidaan hyväksyä alle 25-vuotias henkilö. 25 vuotta
 täytettyään nuorisojäsen muutetaan varsinaiseksi jäseneksi
 täyttämisvuottaan seuraavan kalenterivuoden alusta lukien.
 
