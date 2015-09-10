@@ -42,3 +42,23 @@ liittymismaksun ja vuotuisen jäsenmaksun suuruudesta erikseen kullekin
 jäsenryhmälle ja yhteistyökerholle päättää vuosikokous. Kunniapuheenjohtaja
 ja kunniajäsenet eivät suorita jäsenmaksuja.
 
+...
+
+9 § Yhdistyksen kokous (muutos kolmannessa kappaleessa)
+
+Yhdistys kokoontuu vuosittain helmi-toukokuussa pidettävään vuosikokoukseen,
+jonka paikan ja ajan hallitus tarkemmin määrää.
+
+Ylimääräinen kokous pidetään, kun yhdistyksen kokous niin päättää tai kun hallitus
+katsoo siihen olevan aihetta tai kun vähintään 1/10 yhdistyksen äänioikeutetuista
+jäsenistä sitä hallitukselta erityisesti ilmoitettua asiaa varten kirjallisesti
+vaatii. Kokous on pidettävä kolmenkymmenen vuorokauden kuluessa siitä, kun
+vaatimus sen pitämisestä on esitetty hallitukselle.
+
+Kaikilla yhdistyksen jäsenillä, poislukien kannatusjäsenillä, on yhdistyksen
+kokouksessa yksi ääni. Kannatusjäsenillä on kokouksessa läsnäolo- ja puheoikeus.
+
+Yhdistyksen kokouksen päätökseksi tulee, ellei säännöissä ole toisin määrätty, se
+mielipide, jota on kannattanut yli puolet annetuista äänistä. Äänten mennessä
+tasan ratkaisee kokouksen puheenjohtajan ääni, vaaleissa kuitenkin arpa.
+
